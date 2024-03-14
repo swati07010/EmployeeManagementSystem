@@ -1,31 +1,3 @@
-// import React from "react";
-// import { Link } from "react-router-dom";
-// import "./Navbar.css";
-// const Navbar = () => {
-//   return (
-//     <div className="navbar">
-//       <div className="navbar-link-left">
-//         <Link className="navbar-link-left-addemployee" to="/addemployee">
-//           AddEmployee
-//         </Link>
-//         <Link className="employeelist" to="/employeeList">
-//           EmployeeList
-//         </Link>
-//       </div>
-//       <div className="navbar-link-right">
-//         <Link className="navbar-link-right-signup" to="/signup">
-//           Signup
-//         </Link>
-//         <Link className="navbar-link-right-login" to="/login">
-//           Login
-//         </Link>
-//         <Link to="updateEmployee/:id"></Link>
-//       </div>
-//     </div>
-//   );
-// };
-// export default Navbar;
-
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
