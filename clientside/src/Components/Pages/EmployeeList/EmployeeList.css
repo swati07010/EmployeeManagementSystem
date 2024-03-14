@@ -1,0 +1,46 @@
+.employeelist h1{
+    text-align: center;
+    
+}
+.employeelist-tittle{
+    margin:0px  10px 0px 10px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 0px;
+   
+}
+.employeelist-body{
+    
+}
+.text-decoration{
+
+    margin:0px  10px 0px 10px;
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    font-weight: 700;
+    justify-content: center;
+}
+.employeelist-body button{
+    border-radius: 45px;
+    height: 30px;
+    background: linear-gradient(150deg ,rgb(135, 198, 135),yellow);
+
+    
+}
+
+.text-decoration img{
+    height: 50px;
+    width: 50px;
+}
+.employeelist-search{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+   
+   
+}
+.employeelist-search input{
+    width: 200px;
+    background: linear-gradient(30deg,rgb(186, 175, 175),yellow);
+}

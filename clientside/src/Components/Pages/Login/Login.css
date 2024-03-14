@@ -1,0 +1,20 @@
+.login{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    
+}
+.login input{
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+    height: 60px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.login button{
+    width: 100px;
+    border-radius: 30px;
+    margin-left:150px;
+}

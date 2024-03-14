@@ -1,0 +1,34 @@
+.addemployee{
+    margin-top: 15px;
+    display: grid;
+    justify-content: center;
+    font-weight: 600;
+    
+    
+}
+.addemployee-container{
+    display: grid;
+    gap:15px
+}
+.addemployee-container select{
+    border-radius: 16px;
+    width: 110px;
+    font-weight: 600;
+    background: rgb(215, 225, 199);
+   
+}
+
+
+.addemployee-container input{
+    border-radius: 10px;
+    font-weight: 500;
+    background: rgb(215, 225, 199);
+}
+
+.addemployee-container button{
+    border-radius: 10px;
+    font-weight: 500;
+    margin-left: 20px;
+    width: 100px;
+    background: linear-gradient(150deg ,rgb(135, 198, 135),yellow);
+}

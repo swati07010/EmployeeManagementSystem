@@ -1,0 +1,27 @@
+.navbar{
+    font-size: 20px;
+    display: flex;
+    height: 90px;
+    width: auto;
+    background:rgb(185, 202, 154);
+    align-items: center;
+}
+.navbar-link-left{
+  margin:30px;
+  font-size: 30px;
+  
+}
+.navbar-link-right{
+    font-size: 30px;
+}
+.navbar-link-left-addemployee{
+    margin: 20px;
+}
+.navbar-link-right-signup{
+    margin: 20px;
+}
+button{
+    border-radius: 40px;
+    height: 60px;
+    background:greenyellow;
+}

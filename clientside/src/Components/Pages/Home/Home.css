@@ -1,0 +1,26 @@
+.home{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    /* background:linear-gradient(120deg,red,yellow); */
+    
+}
+.home-container{
+    margin-top: 20px;
+    font-size: 50px;
+}
+@media(max-width:1000px){
+    .home-container{
+        font-size: 26px;
+    }
+}
+@media(max-width:800px){
+    .home-container{
+        font-size: 25px;
+    }
+}
+@media(max-width:500px){
+    .home-container{
+        font-size: 15px;
+    }
+}
